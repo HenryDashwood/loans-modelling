@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "loans-modelling"
+  site-url: "https://HenryDashwood.github.io/loans-modelling"
+  description: "A place to expirement with loan modelling on public data"
+  repo-branch: master
+  repo-url: "https://github.com/HenryDashwood/loans-modelling"
